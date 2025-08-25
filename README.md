@@ -31,4 +31,6 @@ The project ensures an easy-to-use interface and helps reduce the gap between th
    ```bash
    git clone https://github.com/your-username/Lost&Found_Project.git
 <img width="2521" height="1099" alt="Screenshot 2024-11-20 004227" src="https://github.com/user-attachments/assets/f9ab7670-be59-4f40-b511-d63d58461e8d" />
+<img width="2510" height="1095" alt="Screenshot 2024-11-20 005832" src="https://github.com/user-attachments/assets/1d59979a-3495-48fb-b29d-b7ad95014ffe" />
+
 
